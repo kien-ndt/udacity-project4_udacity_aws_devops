@@ -1,4 +1,4 @@
-![alt text](https://github.com/kien-ndt/udacity-project4_udacity_aws_devops/blob/master/Pineline_success.png)
+[![CircleCI](https://circleci.com/gh/kien-ndt/udacity-project4_udacity_aws_devops.svg?style=svg)]
 
 
 ## Setup the Environment (run without docker)
